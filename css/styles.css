@@ -1,0 +1,36 @@
+body {
+    background-color: #F5D5AE;
+}
+
+hr {
+    width: 30%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(51, 120, 19);
+    border-width: 5px;
+
+}
+h1{
+    color: #009EFF;
+}
+
+h2 {
+    color: #863A6F;
+}
+
+h3 {
+    color: #D23369;
+}
+
+img {
+    width: 30%;
+    max-width: 100%;
+    border-radius: 50%;
+    height: auto;
+    
+
+}
+
+td {
+    padding: 0px;
+}
